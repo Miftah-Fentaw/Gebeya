@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Baseball Cap",
+        "description": "Classic baseball cap with adjustable strap.",
+        "price": 14.99,
+        "category": "Hat",
+       "image": "assets/Products/Hats/img1.jpg",
+        "stock": 100,
+        "rating": 4.4
+    },
+    {
+        "id": 2,
+        "name": "Beanie Hat",
+        "description": "Warm beanie for winter and cold weather.",
+        "price": 19.99,
+        "category": "Hat",
+        "image": "assets/Products/Hats/img2.jpg",
+        "stock": 80,
+        "rating": 4.5
+    },
+    {
+        "id": 3,
+        "name": "Fedora Hat",
+        "description": "Stylish fedora hat for formal and casual occasions.",
+        "price": 29.99,
+        "category": "Hat",
+        "image": "assets/Products/Hats/img3.jpg",
+        "stock": 40,
+        "rating": 4.6
+    },
+    {
+        "id": 4,
+        "name": "Bucket Hat",
+        "description": "Trendy bucket hat for sun protection and style.",
+        "price": 17.99,
+        "category": "Hat",
+        "image": "assets/Products/Hats/img4.jpg",
+        "stock": 70,
+        "rating": 4.3
+    },
+    {
+        "id": 5,
+        "name": "Sun Hat",
+        "description": "Wide-brimmed sun hat perfect for outdoor activities.",
+        "price": 24.99,
+        "category": "Hat",
+        "image": "assets/Products/Hats/img5.jpg",
+        "stock": 60,
+        "rating": 4.5
+    }
+]

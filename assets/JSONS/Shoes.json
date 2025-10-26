@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Baseball Cap",
+        "description": "Classic baseball cap with adjustable strap.",
+        "price": 14.99,
+        "category": "Shoes",
+        "image": "assets/Products/Shoes/img1..jpg",
+        "stock": 100,
+        "rating": 4.4
+    },
+    {
+        "id": 2,
+        "name": "Beanie Shoes",
+        "description": "Warm beanie for winter and cold weather.",
+        "price": 19.99,
+        "category": "Shoes",
+        "image": "assets/Products/Shoes/img.jpg",
+        "stock": 80,
+        "rating": 4.5
+    },
+    {
+        "id": 3,
+        "name": "Fedora Shoes",
+        "description": "Stylish fedora Shoes for formal and casual occasions.",
+        "price": 29.99,
+        "category": "Shoes",
+        "image": "assets/Products/Shoes/img3.jpg",
+        "stock": 40,
+        "rating": 4.6
+    },
+    {
+        "id": 4,
+        "name": "Bucket Shoes",
+        "description": "Trendy bucket Shoes for sun protection and style.",
+        "price": 17.99,
+        "category": "Shoes",
+      "image": "assets/Products/Shoes/img4.jpg",
+        "stock": 70,
+        "rating": 4.3
+    },
+    {
+        "id": 5,
+        "name": "Sun Shoes",
+        "description": "Wide-brimmed sun Shoes perfect for outdoor activities.",
+        "price": 24.99,
+        "category": "Shoes",
+        "image": "assets/Products/Shoes/img5.jpg",
+        "stock": 60,
+        "rating": 4.5
+    }
+]

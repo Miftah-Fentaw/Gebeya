@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Denim Shorts",
+        "description": "Casual denim shorts perfect for summer days.",
+        "price": 29.99,
+        "category": "Short",
+        "image": "assets/Products/Shorts/img1.jpg",
+        "stock": 60,
+        "rating": 4.3
+    },
+    {
+        "id": 2,
+        "name": "Sports Shorts",
+        "description": "Lightweight shorts ideal for running and workouts.",
+        "price": 24.99,
+        "category": "Short",
+        "image": "assets/Products/Shorts/img2.jpg",
+        "stock": 80,
+        "rating": 4.5
+    },
+    {
+        "id": 3,
+        "name": "Cargo Shorts",
+        "description": "Durable shorts with multiple pockets for convenience.",
+        "price": 34.99,
+        "category": "Short",
+        "image": "assets/Products/Shorts/img3.jpg",
+        "stock": 50,
+        "rating": 4.4
+    },
+    {
+        "id": 4,
+        "name": "Chino Shorts",
+        "description": "Smart casual chino shorts suitable for outings.",
+        "price": 27.99,
+        "category": "Short",
+        "image": "assets/Products/Shorts/img4.jpg",
+        "stock": 70,
+        "rating": 4.3
+    },
+    {
+        "id": 5,
+        "name": "Beach Shorts",
+        "description": "Quick-dry shorts designed for beach and swimming.",
+        "price": 22.99,
+        "category": "Short",
+        "image": "assets/Products/Shorts/img5.jpg",
+        "stock": 90,
+        "rating": 4.6
+    }
+]

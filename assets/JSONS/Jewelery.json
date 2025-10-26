@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Silver Necklace",
+        "description": "Elegant silver necklace with minimalist design.",
+        "price": 49.99,
+        "category": "Jewelery",
+        "image": "assets/Products/Jewelery/img1.jpg",
+        "stock": 40,
+        "rating": 4.5
+    },
+    {
+        "id": 2,
+        "name": "Gold Earrings",
+        "description": "Shiny gold earrings for special occasions.",
+        "price": 59.99,
+        "category": "Jewelery",
+        "image": "assets/Products/Jewelery/img2.jpg",
+        "stock": 35,
+        "rating": 4.6
+    },
+    {
+        "id": 3,
+        "name": "Pearl Bracelet",
+        "description": "Classic pearl bracelet with adjustable size.",
+        "price": 39.99,
+        "category": "Jewelery",
+        "image": "assets/Products/Jewelery/img3.jpg",
+        "stock": 45,
+        "rating": 4.4
+    },
+    {
+        "id": 4,
+        "name": "Diamond Ring",
+        "description": "Stunning diamond ring with elegant design.",
+        "price": 199.99,
+        "category": "Jewelery",
+        "image": "assets/Products/Jewelery/img4.jpg",
+        "stock": 20,
+        "rating": 4.8
+    },
+    {
+        "id": 5,
+        "name": "Charm Anklet",
+        "description": "Delicate anklet with multiple charms.",
+        "price": 34.99,
+        "category": "Jewelery",
+        "image": "assets/Products/Jewelery/img5.jpg",
+        "stock": 50,
+        "rating": 4.3
+    }
+]

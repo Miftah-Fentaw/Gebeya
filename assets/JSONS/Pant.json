@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Slim Fit Jeans",
+        "description": "Comfortable slim fit jeans for daily wear.",
+        "price": 49.99,
+        "category": "Pant",
+        "image": "assets/Products/Pants/img1.jpg",
+        "stock": 70,
+        "rating": 4.4
+    },
+    {
+        "id": 2,
+        "name": "Chino Pants",
+        "description": "Versatile chino pants for casual or semi-formal style.",
+        "price": 39.99,
+        "category": "Pant",
+        "image": "assets/Products/Pants/img2.jpg",
+        "stock": 60,
+        "rating": 4.3
+    },
+    {
+        "id": 3,
+        "name": "Cargo Pants",
+        "description": "Durable cargo pants with multiple pockets.",
+        "price": 54.99,
+        "category": "Pant",
+       "image": "assets/Products/Pants/img3.jpg",
+        "stock": 50,
+        "rating": 4.5
+    },
+    {
+        "id": 4,
+        "name": "Jogger Pants",
+        "description": "Comfortable jogger pants for sports and leisure.",
+        "price": 34.99,
+        "category": "Pant",
+        "image": "assets/Products/Pants/img4.jpg",
+        "stock": 80,
+        "rating": 4.4
+    },
+    {
+        "id": 5,
+        "name": "Formal Trousers",
+        "description": "Classic formal trousers for office and events.",
+        "price": 59.99,
+        "category": "Pant",
+        "image": "assets/Products/Pants/img5.jpg",
+        "stock": 40,
+        "rating": 4.6
+    }
+]

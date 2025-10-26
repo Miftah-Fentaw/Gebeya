@@ -1,0 +1,412 @@
+[
+  {
+    "id": 3,
+    "name": "Bomber Jacket",
+    "description": "Stylish bomber jacket for casual outings.",
+    "price": 99.99,
+    "category": "Jackets",
+    "image": "assets/Products/Jackets/img3.jpg",
+    "stock": 40,
+    "rating": 4.5
+  },
+  {
+    "id": 3,
+    "name": "V-Neck T-Shirt",
+    "description": "Classic V-neck cotton T-shirt for men and women.",
+    "price": 21.99,
+    "category": "Tshirt",
+    "image": "assets/Products/T-shirts/img3.jpg",
+    "stock": 90,
+    "rating": 4.3
+  },
+  {
+    "id": 2,
+    "name": "Beanie Shoes",
+    "description": "Warm beanie for winter and cold weather.",
+    "price": 19.99,
+    "category": "Shoes",
+    "image": "assets/Products/Shoes/img.jpg",
+    "stock": 80,
+    "rating": 4.5
+  },
+  {
+    "id": 3,
+    "name": "Smart Fitness Watch",
+    "description": "Track your heart rate, steps, and calories burned.",
+    "price": 129.99,
+    "category": "Watch",
+    "image": "assets/Products/Watchs/img3.jpg",
+    "stock": 40,
+    "rating": 4.5
+  },
+  {
+    "id": 5,
+    "name": "Beach Shorts",
+    "description": "Quick-dry shorts designed for beach and swimming.",
+    "price": 22.99,
+    "category": "Short",
+    "image": "assets/Products/Shorts/img5.jpg",
+    "stock": 90,
+    "rating": 4.6
+  },
+  {
+    "id": 4,
+    "name": "Luxury Gold Watch",
+    "description": "Gold-plated luxury watch for special occasions.",
+    "price": 299.99,
+    "category": "Watch",
+    "image": "assets/Products/Watchs/img4.jpg",
+    "stock": 15,
+    "rating": 4.7
+  },
+  {
+    "id": 5,
+    "name": "Charm Anklet",
+    "description": "Delicate anklet with multiple charms.",
+    "price": 34.99,
+    "category": "Jewelery",
+    "image": "assets/Products/Jewelery/img5.jpg",
+    "stock": 50,
+    "rating": 4.3
+  },
+  {
+    "id": 3,
+    "name": "Cargo Shorts",
+    "description": "Durable shorts with multiple pockets for convenience.",
+    "price": 34.99,
+    "category": "Short",
+    "image": "assets/Products/Shorts/img3.jpg",
+    "stock": 50,
+    "rating": 4.4
+  },
+  {
+    "id": 4,
+    "name": "Jogger Pants",
+    "description": "Comfortable jogger pants for sports and leisure.",
+    "price": 34.99,
+    "category": "Pant",
+    "image": "assets/Products/Pants/img4.jpg",
+    "stock": 80,
+    "rating": 4.4
+  },
+  {
+    "id": 5,
+    "name": "Formal Trousers",
+    "description": "Classic formal trousers for office and events.",
+    "price": 59.99,
+    "category": "Pant",
+    "image": "assets/Products/Pants/img5.jpg",
+    "stock": 40,
+    "rating": 4.6
+  },
+  {
+    "id": 1,
+    "name": "Baseball Cap",
+    "description": "Classic baseball cap with adjustable strap.",
+    "price": 14.99,
+    "category": "Shoes",
+    "image": "assets/Products/Shoes/img1..jpg",
+    "stock": 100,
+    "rating": 4.4
+  },
+  {
+    "id": 3,
+    "name": "Fedora Shoes",
+    "description": "Stylish fedora Shoes for formal and casual occasions.",
+    "price": 29.99,
+    "category": "Shoes",
+    "image": "assets/Products/Shoes/img3.jpg",
+    "stock": 40,
+    "rating": 4.6
+  },
+  {
+    "id": 4,
+    "name": "Puffer Jacket",
+    "description": "Warm puffer jacket ideal for winter months.",
+    "price": 129.99,
+    "category": "Jackets",
+    "image": "assets/Products/Jackets/img14.jpg",
+    "stock": 30,
+    "rating": 4.6
+  },
+  {
+    "id": 2,
+    "name": "Digital Sports Watch",
+    "description": "Durable digital watch with stopwatch and alarm.",
+    "price": 59.99,
+    "category": "Watch",
+    "image": "assets/Products/Watchs/img2.jpg",
+    "stock": 50,
+    "rating": 4.2
+  },
+  {
+    "id": 3,
+    "name": "Fedora Hat",
+    "description": "Stylish fedora hat for formal and casual occasions.",
+    "price": 29.99,
+    "category": "Hat",
+    "image": "assets/Products/Hats/img3.jpg",
+    "stock": 40,
+    "rating": 4.6
+  },
+  {
+    "id": 5,
+    "name": "Minimalist Leather Watch",
+    "description": "Sleek watch with minimalist design.",
+    "price": 99.99,
+    "category": "Watch",
+    "image": "assets/Products/Watchs/img5.jpg",
+    "stock": 35,
+    "rating": 4.3
+  },
+  {
+    "id": 2,
+    "name": "Sports Shorts",
+    "description": "Lightweight shorts ideal for running and workouts.",
+    "price": 24.99,
+    "category": "Short",
+    "image": "assets/Products/Shorts/img2.jpg",
+    "stock": 80,
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "name": "Chino Pants",
+    "description": "Versatile chino pants for casual or semi-formal style.",
+    "price": 39.99,
+    "category": "Pant",
+    "image": "assets/Products/Pants/img2.jpg",
+    "stock": 60,
+    "rating": 4.3
+  },
+  {
+    "id": 2,
+    "name": "Beanie Hat",
+    "description": "Warm beanie for winter and cold weather.",
+    "price": 19.99,
+    "category": "Hat",
+    "image": "assets/Products/Hats/img2.jpg",
+    "stock": 80,
+    "rating": 4.5
+  },
+  {
+    "id": 6,
+    "name": "Minimalist Leather Watch",
+    "description": "Sleek watch with minimalist design.",
+    "price": 80.99,
+    "category": "Watch",
+    "image": "assets/Products/Watchs/img6.jpg",
+    "stock": 35,
+    "rating": 3.3
+  },
+  {
+    "id": 1,
+    "name": "Silver Necklace",
+    "description": "Elegant silver necklace with minimalist design.",
+    "price": 49.99,
+    "category": "Jewelery",
+    "image": "assets/Products/Jewelery/img1.jpg",
+    "stock": 40,
+    "rating": 4.5
+  },
+  {
+    "id": 5,
+    "name": "Sun Shoes",
+    "description": "Wide-brimmed sun Shoes perfect for outdoor activities.",
+    "price": 24.99,
+    "category": "Shoes",
+    "image": "assets/Products/Shoes/img5.jpg",
+    "stock": 60,
+    "rating": 4.5
+  },
+  {
+    "id": 1,
+    "name": "Classic Analog Watch",
+    "description": "Elegant analog watch with leather strap.",
+    "price": 89.99,
+    "category": "Watch",
+    "image": "assets/Products/Watchs/img1.jpg",
+    "stock": 30,
+    "rating": 4.4
+  },
+  {
+    "id": 4,
+    "name": "Diamond Ring",
+    "description": "Stunning diamond ring with elegant design.",
+    "price": 199.99,
+    "category": "Jewelery",
+    "image": "assets/Products/Jewelery/img4.jpg",
+    "stock": 20,
+    "rating": 4.8
+  },
+  {
+    "id": 4,
+    "name": "Bucket Hat",
+    "description": "Trendy bucket hat for sun protection and style.",
+    "price": 17.99,
+    "category": "Hat",
+    "image": "assets/Products/Hats/img4.jpg",
+    "stock": 70,
+    "rating": 4.3
+  },
+  {
+    "id": 4,
+    "name": "Bucket Shoes",
+    "description": "Trendy bucket Shoes for sun protection and style.",
+    "price": 17.99,
+    "category": "Shoes",
+    "image": "assets/Products/Shoes/img4.jpg",
+    "stock": 70,
+    "rating": 4.3
+  },
+  {
+    "id": 2,
+    "name": "Gold Earrings",
+    "description": "Shiny gold earrings for special occasions.",
+    "price": 59.99,
+    "category": "Jewelery",
+    "image": "assets/Products/Jewelery/img2.jpg",
+    "stock": 35,
+    "rating": 4.6
+  },
+  {
+    "id": 4,
+    "name": "Chino Shorts",
+    "description": "Smart casual chino shorts suitable for outings.",
+    "price": 27.99,
+    "category": "Short",
+    "image": "assets/Products/Shorts/img4.jpg",
+    "stock": 70,
+    "rating": 4.3
+  },
+  {
+    "id": 5,
+    "name": "Long Sleeve T-Shirt",
+    "description": "Comfortable long sleeve T-shirt for cooler days.",
+    "price": 22.99,
+    "category": "Tshirt",
+    "image": "assets/Products/T-shirts/img5.jpg",
+    "stock": 60,
+    "rating": 4.4
+  },
+  {
+    "id": 5,
+    "name": "Sun Hat",
+    "description": "Wide-brimmed sun hat perfect for outdoor activities.",
+    "price": 24.99,
+    "category": "Hat",
+    "image": "assets/Products/Hats/img5.jpg",
+    "stock": 60,
+    "rating": 4.5
+  },
+  {
+    "id": 5,
+    "name": "Windbreaker Jacket",
+    "description": "Lightweight windbreaker for outdoor activities.",
+    "price": 69.99,
+    "category": "Jackets",
+    "image": "assets/Products/Jackets/img5.jpg",
+    "stock": 60,
+    "rating": 4.3
+  },
+  {
+    "id": 2,
+    "name": "Graphic Print T-Shirt",
+    "description": "Stylish T-shirt with vibrant graphic print.",
+    "price": 24.99,
+    "category": "Tshirt",
+    "image": "assets/Products/T-shirts/img2.jpg",
+    "stock": 80,
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "name": "Denim Jacket",
+    "description": "Casual denim jacket suitable for everyday wear.",
+    "price": 79.99,
+    "category": "Jackets",
+    "image": "assets/Products/Jackets/img2.jpg",
+    "stock": 50,
+    "rating": 4.4
+  },
+  {
+    "id": 1,
+    "name": "Denim Shorts",
+    "description": "Casual denim shorts perfect for summer days.",
+    "price": 29.99,
+    "category": "Short",
+    "image": "assets/Products/Shorts/img1.jpg",
+    "stock": 60,
+    "rating": 4.3
+  },
+  {
+    "id": 1,
+    "name": "Baseball Cap",
+    "description": "Classic baseball cap with adjustable strap.",
+    "price": 14.99,
+    "category": "Hat",
+    "image": "assets/Products/Hats/img1.jpg",
+    "stock": 100,
+    "rating": 4.4
+  },
+  {
+    "id": 3,
+    "name": "Pearl Bracelet",
+    "description": "Classic pearl bracelet with adjustable size.",
+    "price": 39.99,
+    "category": "Jewelery",
+    "image": "assets/Products/Jewelery/img3.jpg",
+    "stock": 45,
+    "rating": 4.4
+  },
+  {
+    "id": 1,
+    "name": "Slim Fit Jeans",
+    "description": "Comfortable slim fit jeans for daily wear.",
+    "price": 49.99,
+    "category": "Pant",
+    "image": "assets/Products/Pants/img1.jpg",
+    "stock": 70,
+    "rating": 4.4
+  },
+  {
+    "id": 1,
+    "name": "Cotton Crew Neck T-Shirt",
+    "description": "Soft cotton T-shirt for everyday comfort.",
+    "price": 19.99,
+    "category": "Tshirt",
+    "image": "assets/Products/T-shirts/img1.jpg",
+    "stock": 100,
+    "rating": 4.2
+  },
+  {
+    "id": 4,
+    "name": "Polo Shirt",
+    "description": "Casual polo shirt suitable for office or leisure.",
+    "price": 29.99,
+    "category": "Tshirt",
+    "image": "assets/Products/T-shirts/img4.jpg",
+    "stock": 70,
+    "rating": 4.6
+  },
+  {
+    "id": 3,
+    "name": "Cargo Pants",
+    "description": "Durable cargo pants with multiple pockets.",
+    "price": 54.99,
+    "category": "Pant",
+    "image": "assets/Products/Pants/img3.jpg",
+    "stock": 50,
+    "rating": 4.5
+  },
+  {
+    "id": 1,
+    "name": "Leather Jacket",
+    "description": "Classic leather jacket with sleek design.",
+    "price": 149.99,
+    "category": "Jackets",
+    "image": "assets/Products/Jackets/img1.jpg",
+    "stock": 35,
+    "rating": 4.7
+  }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Cotton Crew Neck T-Shirt",
+        "description": "Soft cotton T-shirt for everyday comfort.",
+        "price": 19.99,
+        "category": "Tshirt",
+        "image": "assets/Products/T-shirts/img1.jpg",
+        "stock": 100,
+        "rating": 4.2
+    },
+    {
+        "id": 2,
+        "name": "Graphic Print T-Shirt",
+        "description": "Stylish T-shirt with vibrant graphic print.",
+        "price": 24.99,
+        "category": "Tshirt",
+        "image": "assets/Products/T-shirts/img2.jpg",
+        "stock": 80,
+        "rating": 4.5
+    },
+    {
+        "id": 3,
+        "name": "V-Neck T-Shirt",
+        "description": "Classic V-neck cotton T-shirt for men and women.",
+        "price": 21.99,
+        "category": "Tshirt",
+        "image": "assets/Products/T-shirts/img3.jpg",
+        "stock": 90,
+        "rating": 4.3
+    },
+    {
+        "id": 4,
+        "name": "Polo Shirt",
+        "description": "Casual polo shirt suitable for office or leisure.",
+        "price": 29.99,
+        "category": "Tshirt",
+        "image": "assets/Products/T-shirts/img4.jpg",
+        "stock": 70,
+        "rating": 4.6
+    },
+    {
+        "id": 5,
+        "name": "Long Sleeve T-Shirt",
+        "description": "Comfortable long sleeve T-shirt for cooler days.",
+        "price": 22.99,
+        "category": "Tshirt",
+        "image": "assets/Products/T-shirts/img5.jpg",
+        "stock": 60,
+        "rating": 4.4
+    }
+]
