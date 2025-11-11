@@ -57,10 +57,10 @@ A comprehensive e-commerce application built with Flutter, featuring user authen
 ## 📱 Screenshots
 
 The app includes:
-<img src="assets/screenshots/auth.jpg" alt="Home Screen" width="400"/>
-<img src="assets/screenshots/home.jpg" alt="Campus Map" width="400"/>
-<img src="assets/screenshots/cart.jpg" alt="Events" width="400"/>
-<img src="assets/screenshots/order.jpg" alt="ChatBot" width="400"/>
+<img src="assets/screenshots/auth.jpg" alt="Home Screen" width="200"/>
+<img src="assets/screenshots/home.jpg" alt="Campus Map" width="200"/>
+<img src="assets/screenshots/cart.jpg" alt="Events" width="200"/>
+<img src="assets/screenshots/order.jpg" alt="ChatBot" width="200"/>
 
 
 ## 🔧 Setup Instructions
